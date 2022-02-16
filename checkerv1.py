@@ -112,7 +112,7 @@ class Checker:
                 else:
                     print(self.head + f'{self.green}    {url} ─────── {user}'
                                       f'{self.green}                                                   [claimable]')
-                    system("title " + f'Tiktok Name Checking Tool ~~ Tried {self.o + 1} Times ~~ {self.p}'
+                    system("title " + f'Moon Checker ~~ Tried {self.o + 1} Times ~~ {self.p}'
                                       f' Successful Attempts')
                     self.o += 1
                     self.p += 1
