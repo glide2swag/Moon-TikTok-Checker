@@ -1,7 +1,10 @@
-Hi, you're probably here to find some new TikTok Checking tools that you could use. Well.. you're in the right place!
-This tool helps you getting your first rare TikTok @, hope you enjoy it.
+# Moon Checker
 
-THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY
+required:
+```pip install os
+pip install time
+pip install colorama
+pip install asyncio
+pip install aiohttp
+pip install pypresence```
 
-
-~ glide
