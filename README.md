@@ -13,5 +13,5 @@ required:
 pip install colorama
 pip install asyncio
 pip install aiohttp
-pip install pypresence```
+pip install pypresence
 
