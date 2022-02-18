@@ -111,7 +111,7 @@ class Checker:
                     self.o += 1
                 else:
                     print(self.head + f'{self.green}    {url} ─────── {user}'
-                                      f'{self.green}                                                   [claimable]')
+                                      f'{self.green}                                                   [available]')
                     system("title " + f'Moon Checker ~~ Tried {self.o + 1} Times ~~ {self.p}'
                                       f' Successful Attempts')
                     self.o += 1
