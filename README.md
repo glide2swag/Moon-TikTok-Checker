@@ -11,7 +11,9 @@ if you're using it for that case, i would say it's a good checker to begin with.
 
 - While installing Python, make sure to add it to "PATH"
 
-1.
+# When Python Is Installed
+When Python is installed, go to your command prompt and type in these:
+
 ```
 pip install colorama
 pip install asyncio
