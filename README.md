@@ -11,6 +11,7 @@ if you're using it for that case, i would say it's a good checker to begin with.
 
 - While installing Python, make sure to add it to "PATH"
 
+1.
 ```
 pip install colorama
 pip install asyncio
